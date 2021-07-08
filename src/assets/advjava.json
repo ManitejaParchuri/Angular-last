@@ -1,0 +1,4 @@
+[
+    {"courseId":103, "courseName":"java Script","coursePrice":600,"courseDescrption":"java Script boot training for 40 days","courseImg":"assets/JS.jpg"},
+    {"courseId":104, "courseName":"JDBC","coursePrice":1000,"courseDescrption":"JDBC training for 35 days","courseImg":"assets/JDBC.jpg"}
+]
